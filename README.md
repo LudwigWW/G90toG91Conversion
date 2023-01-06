@@ -6,6 +6,8 @@ A VSCode extension to convert G90 G-Code into G91 format.
 
 Converts selected G-Code with absolute positioning (G90) into G-Code that uses relative positioning (G91).
 
+Use command "Convert G90 to G91" with lines of G-Code selected.
+
 ## Requirements
 
 The selected code should have movement commands without extrusions that include the (absolute) starting values for XYZ. 
