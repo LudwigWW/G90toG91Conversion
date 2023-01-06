@@ -1,8 +1,9 @@
 {
+  "publisher": "LudwigWWall",
   "name": "g90tog91conversion",
   "displayName": "G90toG91Conversion",
   "description": "Converts absolute positioning GCode to relative positioning",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
