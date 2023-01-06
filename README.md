@@ -1,6 +1,6 @@
 # g90tog91conversion README
 
-An extension to convert G90 G-Code into G91 format.
+A VSCode extension to convert G90 G-Code into G91 format.
 
 ## Features
 
